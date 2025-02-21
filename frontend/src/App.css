@@ -1,0 +1,28 @@
+body {
+  background: linear-gradient(to right, #ff9a9e, #fad0c4);
+  height: 100vh;
+}
+
+.btn-warning {
+  background-color: #D1B6D9!important; /* Replace with your desired color */
+   /* Optional: match the border */            /* Text color */
+}
+.btn-danger {
+  background-color: #85D166 !important; /* Replace with your desired color */
+  
+  color: white !important;
+}
+
+
+
+.table.table-bordered th {
+  background-color: #ffebcd; /* Header background color */
+}
+
+
+
+.ticket-container {
+  background-color: #070809; /* Light blue background */
+  min-height: 100vh;
+  padding: 20px;
+}
